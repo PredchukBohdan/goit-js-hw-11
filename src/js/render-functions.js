@@ -18,7 +18,7 @@ export function renderErrorMessage() {
     backgroundColor: '#EF4040',
     messageColor: 'white',
     iconColor: 'white',
-    iconUrl: '/img/Group.svg',
+    iconUrl: '../img/group.png',
     progressBar: true,
     timeout: 10000,
     animateInside: false,
